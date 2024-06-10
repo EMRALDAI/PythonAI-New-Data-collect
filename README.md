@@ -1,6 +1,6 @@
 # Security Data Collector
 
-This project collects real-world data related to network traffic, logs, and known security incidents using the Random User API. It stores the data in a SQLite database and continuously updates the dataset using scheduled tasks.
+This project collects real-world data related to network traffic, logs, and known security incidents using the Random User API. It stores the data in a SQLite database and continuously updates the dataset using scheduled tasks. (Meaning that the only real thing is assimilated traffic not the data!) 
 
 ## Overview
 
