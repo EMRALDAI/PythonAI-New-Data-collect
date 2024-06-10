@@ -1,0 +1,5 @@
+{
+    "api_url": "https://api.example.com/security/incidents",
+    "db_name": "security_data",
+    "table_name": "incidents"
+}
